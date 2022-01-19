@@ -1,1 +1,1 @@
-# binary-star-evolution
+# binary-star-evolution-outcomes
